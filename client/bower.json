@@ -23,7 +23,8 @@
     "paper-tabs": "PolymerElements/paper-tabs#^1.7.0",
     "polymer": "Polymer/polymer#^1.9.0",
     "polymerfire": "firebase/polymerfire#^2.1.0",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "scalable-image-grid": "vogelrh/scalable-image-grid#^1.0.2"
   },
   "resolutions": {
     "webcomponentsjs": "^0.7.0"
